@@ -16,5 +16,5 @@ Node, Express, Nest
 ###### Databases
 SQL, NoSQL, SQLite, Postgres, Mongo, Drizzle ORM, Prisma ORM
 
-###### SaaS
+###### Services
 Supabase, Turso, Cloudflare, Vercel, Netlify, Render, Railway
