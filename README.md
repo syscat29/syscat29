@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**syscat29/syscat29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Angel, a full stack developer with a strong inclination for backend development. I like creating and maintaining robust and efficient RESTful APIs, designing and managing databases, as well as building full stack apps for fun. My frontend skills allow me to understand the complete development lifecycle and collaborate effectively within teams.
 
-Here are some ideas to get you started:
+#### Knowledge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Frontend
+TypeScript, HTML, CSS
+, Vite, React, Next, Astro, Tailwind
+
+###### Backend
+Node, Express, Nest
+
+###### Databases
+SQL, NoSQL, SQLite, Postgres, Mongo, Drizzle ORM, Prisma ORM
+
+###### SaaS
+Supabase, Turso, Cloudflare, Vercel, Netlify, Render, Railway
