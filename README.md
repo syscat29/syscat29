@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Angel, a full stack developer with a strong inclination and passion for frontend development. I like creating intuitive and user interfaces, focusing on user experience and web performance optimization. I possess solid skills in the design and implementation of RESTful APIs, as well as in database management, which allows me to understand the complete development lifecycle and build full applications from start to finish.
+I'm a full stack developer with an inclination for frontend development. I like creating intuitive user interfaces, focusing on user experience and web performance optimization. I possess solid skills in the design and implementation of RESTful APIs, as well as in database management, which allows me to understand the complete development lifecycle and build full applications from start to finish.
 
 Continually looking to improve myself and grow professionally.
 
